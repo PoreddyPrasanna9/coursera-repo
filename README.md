@@ -1,2 +1,2 @@
 # coursera-repo
-practice from courser
+practice from coursera
